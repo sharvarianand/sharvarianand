@@ -1,5 +1,3 @@
-# **Hi there!** 👋 **I'm Sharvari Bhondekar**
-
 # 🌟 **About Me**:
 I am an enthusiastic **Engineering Student** specializing in **Artificial Intelligence and Data Science**. I am passionate about utilizing **cutting-edge technologies** to solve complex challenges and drive innovation in the world of AI and data.
 
