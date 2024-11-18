@@ -9,6 +9,6 @@ I am an enthusiastic **Engineering Student** specializing in **Artificial Intell
 I am eager to collaborate on exciting projects where I can learn, contribute, and expand my professional network. If you have a project idea or are looking for a partner to work on **AI**, **machine learning**, or **data-driven** solutions, feel free to reach out!
 
 # 📫 **How to Reach Me:**
-- **Email**: sharvaribhondekar23@gmail.com
+- **Email**: sharvarib.work@gmail.com
 - **LinkedIn**: [Sharvari Bhondekar](https://www.linkedin.com/in/sharvari-bhondekar-872a7a282)
   
