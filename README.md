@@ -1,5 +1,5 @@
 ```markdown
-# SHARVARI BHONDEKAR <3
+SHARVARI BHONDEKAR <3
 ==================
 
 Building AI-powered applications, automation systems, and full-stack products.
@@ -33,20 +33,20 @@ Featured Projects
 ● InterVueX
   ✦ AI interview simulation platform with adaptive questioning and real-time evaluation.
   ✦ Won 1st Place (Individual) at Build with AI Hackathon (Edquest).
-  ✦ Links: [https://intervuex.vercel.app](https://intervuex.vercel.app)
+  ✦ Links: https://intervuex.vercel.app
 
 ● Sentira
   ✦ Multimodal emotion analysis platform for real-time sentiment and bias detection.
   ✦ Won 3rd Place at TechXpression X CSI Hackathon.
-  ✦ Links: [https://sentira.vercel.app](https://sentira.vercel.app)
+  ✦ Links: https://sentira.vercel.app
 
 ● Pactix
   ✦ AI-powered negotiation and workflow platform for freelancers and agencies.
-  ✦ Links: [https://pactix-the-agentic-negotiator-for-f-six.vercel.app/](https://pactix-the-agentic-negotiator-for-f-six.vercel.app/)
+  ✦ Links: https://pactix-the-agentic-negotiator-for-f-six.vercel.app/
 
 ● CrowdKavach
   ✦ AI crowd safety platform for real-time detection of anomalies in public spaces.
-  ✦ Links: [https://crowdkavach.vercel.app](https://crowdkavach.vercel.app)
+  ✦ Links: https://crowdkavach.vercel.app
 
 Achievements
 ------------
