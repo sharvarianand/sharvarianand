@@ -59,6 +59,6 @@ Achievements
 Philosophy
 ----------
 "AI should prepare humans to succeed, not replace them."
-
+----------
 Thanks for stopping by! :)
 Feel free to connect, collaborate, or build something cool together ✨
