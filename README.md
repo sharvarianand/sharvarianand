@@ -10,11 +10,10 @@ AI Agents • Full-Stack Development • Workflow Automation • Developer Tooli
 
 Connect With Me
 ---------------
-» GitHub    → [https://github.com/sharvarianand](https://github.com/sharvarianand)
-» LinkedIn  → [https://linkedin.com/in/sharvari-bhondekar-872a7a282](https://linkedin.com/in/sharvari-bhondekar-872a7a282)
+» GitHub    → https://github.com/sharvarianand
+» LinkedIn  → https://linkedin.com/in/sharvari-bhondekar-872a7a282
 » Email     → sharvaribhondekar23@gmail.com
-» Portfolio → [https://sharvaribhondekarportfolio.vercel.app](https://sharvaribhondekarportfolio.vercel.app)
-
+» Portfolio → https://sharvaribhondekarportfolio.vercel.app
 Skills & Tools
 --------------
 » Languages:   TypeScript, JavaScript, Python, Java, C, SQL
