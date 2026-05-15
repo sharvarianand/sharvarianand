@@ -28,7 +28,7 @@ Featured Projects
 ● Vora
   ✦ Multi-agent B2B sales outreach platform with Human Handoff mode.
   ✦ Won 1st Place at Coherence'26 (Sales & Outreach Systems Track).
-  ✦ Links: [https://vora.vercel.app](https://vora.vercel.app)
+  ✦ Links: https://vora.vercel.app
 
 ● InterVueX
   ✦ AI interview simulation platform with adaptive questioning and real-time evaluation.
