@@ -27,18 +27,18 @@ Featured Projects
 ● Vora
   ✦ Multi-agent B2B sales outreach platform with Human Handoff mode.
   ✦ Won 1st Place at Coherence'26 (Sales & Outreach Systems Track).
-  ✦ Links: <a href="https://vora.vercel.app">https://vora.vercel.app</a>
+  ✦ Links: <a href="https://vora.vercel.app">https://vora.vercel.app</a><br>
 ● InterVueX
   ✦ AI interview simulation platform with adaptive questioning and real-time evaluation.
   ✦ Won 1st Place (Individual) at Build with AI Hackathon (Edquest).
-  ✦ Links: <a href="https://intervuex.vercel.app">https://intervuex.vercel.app</a>
+  ✦ Links: <a href="https://intervuex.vercel.app">https://intervuex.vercel.app</a><br>
 ● Sentira
   ✦ Multimodal emotion analysis platform for real-time sentiment and bias detection.
   ✦ Won 3rd Place at TechXpression X CSI Hackathon.
-  ✦ Links: <a href="https://sentira.vercel.app">https://sentira.vercel.app</a>
+  ✦ Links: <a href="https://sentira.vercel.app">https://sentira.vercel.app</a><br>
 ● Pactix
   ✦ AI-powered negotiation and workflow platform for freelancers and agencies.
-  ✦ Links: <a href="https://pactix-the-agentic-negotiator-for-f-six.vercel.app/">https://pactix-the-agentic-negotiator-for-f-six.vercel.app/</a>
+  ✦ Links: <a href="https://pactix-the-agentic-negotiator-for-f-six.vercel.app/">https://pactix-the-agentic-negotiator-for-f-six.vercel.app/</a><br>
 ● CrowdKavach
   ✦ AI crowd safety platform for real-time detection of anomalies in public spaces.
   ✦ Links: <a href="https://crowdkavach.vercel.app">https://crowdkavach.vercel.app</a>
