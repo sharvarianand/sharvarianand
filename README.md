@@ -14,6 +14,7 @@ Connect With Me
 » LinkedIn  → https://linkedin.com/in/sharvari-bhondekar-872a7a282
 » Email     → sharvaribhondekar23@gmail.com
 » Portfolio → https://sharvaribhondekarportfolio.vercel.app
+
 Skills & Tools
 --------------
 » Languages:   TypeScript, JavaScript, Python, Java, C, SQL
