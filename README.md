@@ -1,6 +1,7 @@
 <pre>
 SHARVARI BHONDEKAR &lt;3
 ==================
+  
 Building AI-powered applications, automation systems, and full-stack products.
 Passionate about solving real-world problems using LLMs, NLP, and intelligent workflows.
 Currently focused on:
