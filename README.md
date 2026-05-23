@@ -28,11 +28,11 @@ Featured Projects
 ● Vora
   ✦ Multi-agent B2B sales outreach platform with Human Handoff mode.
   ✦ Won 1st Place at Coherence'26 (Sales & Outreach Systems Track).
-  ✦ Links: <a href="https://vora.vercel.app">https://vora-voice-across-borders-cdikg75x0.vercel.app"></a><br>
+  ✦ Links: <a href="https://vora-voice-across-borders-cdikg75x0.vercel.app">https://vora-voice-across-borders-cdikg75x0.vercel.app</a><br>
 ● InterVueX
   ✦ AI interview simulation platform with adaptive questioning and real-time evaluation.
   ✦ Won 1st Place (Individual) at Build with AI Hackathon (Edquest).
-  ✦ Links: <a href="https://intervuex.vercel.app">https://intervuex.vercel.app</a><br>
+  ✦ Links: <a href="https://inter-vue-x-ai-interview-engine.vercel.app">https://inter-vue-x-ai-interview-engine.vercel.app</a><br>
 ● Sentira
   ✦ Multimodal emotion analysis platform for real-time sentiment and bias detection.
   ✦ Won 3rd Place at TechXpression X CSI Hackathon.
